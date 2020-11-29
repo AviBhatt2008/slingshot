@@ -1,2 +1,2 @@
-# slingshot
-use the mouse to drag the bird and release to shoot the bird
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
